@@ -1,0 +1,26 @@
+{
+  "name": "wallpaper",
+  "version": "0.0.1",
+  "description": "middleware for underscore templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bthesorceror/wallpaper.git"
+  },
+  "keywords": [
+    "middleware",
+    "journeyman",
+    "templating"
+  ],
+  "author": "Brandon Farmer",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/bthesorceror/wallpaper/issues"
+  },
+  "dependencies": {
+    "underscore": "~1.5.2"
+  }
+}
